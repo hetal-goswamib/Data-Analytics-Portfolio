@@ -3,9 +3,7 @@
 
 - 📊 **Core Skills:** Power BI, Advanced DAX, SQL, Python (Pandas/PySpark), React, JavaScript, and AWS Cloud (S3/EC2).
 - ⚡ **Key Expertise:** Data Deduplication, Query Performance Optimization, Star Schema Data Modeling, ETL Processes, and Web Development.
-- 💼 **Impact:** Track record of reducing manual data compilation time by **35%** and optimizing SQL query execution time by **40%**.
-
----
+- 🎯 **Business Impact:** Streamlined data compilation workflows to eliminate manual effort and engineered high-performance SQL queries for significantly faster report generation.
 
 ### 📂 Featured Analytics & Technical Projects
 
@@ -25,6 +23,6 @@
 - **Tech Stack:** Python, Machine Learning, Deep Learning, Computer Vision
 - **Key Highlights:** Built an automated AI pipeline for diagnostic medical image processing and feature extraction to enhance analytics and pattern recognition.
 
-#### 5. ☁️ [Cloud Computing Infrastructure for Secure File Sharing](./Cloud-Computing-Secure-File-Sharing)
+#### 5. ☁️ [Cloud Computing Infrastructure for Secure File Sharing](https://github.com/Hetviktechu/Cloud-Infrastructure-Secure-File-Sharing)
 - **Tech Stack:** AWS (EC2, S3), Cloud Storage Management, Access Control Protocols
 - **Key Highlights:** Architected secure cloud storage workflows adhering to ISO security standards, managing version control via Git and GitHub.
