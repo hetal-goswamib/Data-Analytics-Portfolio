@@ -9,7 +9,7 @@
 
 ### 📂 Featured Analytics & Technical Projects
 
-#### 1. 📈 [Financial Performance & KPI Analytics Dashboard][(https://github.com/Hetviktechu/Financial-Performance-KPI-Dashboard))](https://github.com/Hetviktechu/Financial-Performance-KPI-Dashboard)
+#### 1. 📈 [Financial Performance & KPI Analytics Dashboard (Financial-Performance-KPI-Dashboard)](https://github.com/Hetviktechu/Financial-Performance-KPI-Dashboard)
 - **Tech Stack:** Power BI, Advanced DAX, SQL, Power Query, Data Modeling (Star Schema)
 - **Key Highlights:** Designed and delivered an automated finance dashboard reducing manual reporting time by 30%. Developed advanced DAX metrics for comparative trend analysis, providing clear visibility into revenue and profit performance.
 
