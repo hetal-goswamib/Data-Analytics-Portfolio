@@ -17,13 +17,13 @@
 - **Tech Stack:** Python, PySpark, Multi-Layer Perceptron (MLP) Classifier, Audio Feature Extraction (MFCC)
 - **Key Highlights:** Developed a predictive machine learning model at University of East London achieving 82% accuracy in emotion classification. Managed data ingestion, audio feature extraction, data cleaning, and evaluation via Python & PySpark.
 
-#### 3. 🩺 [Medical Image Analysis using AI & Deep Learning](./Medical-Image-Analysis-AI)
+#### 3. 🚀 [Big Data Analytics & Web Log Processing using PySpark](https://github.com/Hetviktechu/Hetvik12071)
+- **Tech Stack:** Python, PySpark (Spark SQL, Spark RDD), Data Wrangling, Regex, Matplotlib, Google Colab
+- **Key Highlights:** Processed over 3 Million unstructured web log records by building an automated Regex pipeline and converting them into structured Spark DataFrames. Executed complex Spark SQL and RDD transformations to analyze traffic patterns, detect potential security threats (HTTP vs HTTPS usage), and evaluate peak usage hours.
+  
+#### 4. 🩺 [Medical Image Analysis using AI & Deep Learning](./Medical-Image-Analysis-AI)
 - **Tech Stack:** Python, Machine Learning, Deep Learning, Computer Vision
 - **Key Highlights:** Built an automated AI pipeline for diagnostic medical image processing and feature extraction to enhance analytics and pattern recognition.
-
-#### 4. ⚡ [High-Performance Web Application Development](./Web-Performance-Optimization-React)
-- **Tech Stack:** React, JavaScript, HTML5, CSS3, Performance Optimization
-- **Key Highlights:** Leveraged 4+ years of front-end experience to design responsive web interfaces, optimizing code speed, troubleshooting UI bugs, and resolving system performance bottlenecks.
 
 #### 5. ☁️ [Cloud Computing Infrastructure for Secure File Sharing](./Cloud-Computing-Secure-File-Sharing)
 - **Tech Stack:** AWS (EC2, S3), Cloud Storage Management, Access Control Protocols
