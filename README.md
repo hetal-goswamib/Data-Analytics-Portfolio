@@ -9,11 +9,11 @@
 
 ### 📂 Featured Analytics & Technical Projects
 
-#### 1. 📈 [Financial Performance & KPI Analytics Dashboard (Financial-Performance-KPI-Dashboard)](https://github.com/Hetviktechu/Financial-Performance-KPI-Dashboard)
+#### 1. 📈 [Financial Performance & KPI Analytics Dashboard ](https://github.com/Hetviktechu/Financial-Performance-KPI-Dashboard)
 - **Tech Stack:** Power BI, Advanced DAX, SQL, Power Query, Data Modeling (Star Schema)
 - **Key Highlights:** Designed and delivered an automated finance dashboard reducing manual reporting time by 30%. Developed advanced DAX metrics for comparative trend analysis, providing clear visibility into revenue and profit performance.
 
-#### 2. 🎙️ [Speech Emotion Recognition using Audio Data (MSc Dissertation)](./Speech-Emotion-Recognition-MLP)
+#### 2. 🎙️ [Speech Emotion Recognition using Audio Data ](https://github.com/Hetviktechu/speech-emotion-recognition)
 - **Tech Stack:** Python, PySpark, Multi-Layer Perceptron (MLP) Classifier, Audio Feature Extraction (MFCC)
 - **Key Highlights:** Developed a predictive machine learning model at University of East London achieving 82% accuracy in emotion classification. Managed data ingestion, audio feature extraction, data cleaning, and evaluation via Python & PySpark.
 
