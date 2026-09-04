@@ -1,7 +1,7 @@
 # Hi, I'm Hetal Goswami 👋 
 ### Data Analyst | Business Intelligence & Systems Performance
 
-- 📊 **Core Skills:** Power BI, Advanced DAX, SQL, Python (Pandas/PySpark), React, JavaScript, and AWS Cloud (S3/EC2).
+- 📊 **Core Skills:** Power BI, Advanced DAX, SQL, Python (Pandas/PySpark), Excel, AWS Cloud (S3/EC2), React, and JavaScript.
 - ⚡ **Key Expertise:** Data Deduplication, Query Performance Optimization, Star Schema Data Modeling, ETL Processes, and Web Development.
 - 🎯 **Business Impact:** Streamlined data compilation workflows to eliminate manual effort and engineered high-performance SQL queries for significantly faster report generation.
 
@@ -9,7 +9,7 @@
 
 #### 1. 📈 [Financial Performance & KPI Analytics Dashboard ](https://github.com/Hetviktechu/Financial-Performance-KPI-Dashboard)
 - **Tech Stack:** Power BI, Advanced DAX, SQL, Power Query, Data Modeling (Star Schema)
-- **Key Highlights:** Designed and delivered an automated finance dashboard reducing manual reporting time by 30%. Developed advanced DAX metrics for comparative trend analysis, providing clear visibility into revenue and profit performance.
+- **Key Highlights:** Designed and delivered an automated finance dashboard that streamlined regular reporting. Developed advanced DAX metrics for comparative trend analysis, providing clear visibility into revenue and profit performance.
 
 #### 2. 🎙️ [Speech Emotion Recognition using Audio Data ](https://github.com/Hetviktechu/speech-emotion-recognition)
 - **Tech Stack:** Python, PySpark, Multi-Layer Perceptron (MLP) Classifier, Audio Feature Extraction (MFCC)
