@@ -21,7 +21,7 @@
 - **Tech Stack:** Python, PySpark (Spark SQL, Spark RDD), Data Wrangling, Regex, Matplotlib, Google Colab
 - **Key Highlights:** Processed over 3 Million unstructured web log records by building an automated Regex pipeline and converting them into structured Spark DataFrames. Executed complex Spark SQL and RDD transformations to analyze traffic patterns, detect potential security threats (HTTP vs HTTPS usage), and evaluate peak usage hours.
   
-#### 4. 🩺 [Medical Image Analysis using AI & Deep Learning](./Medical-Image-Analysis-AI)
+#### 4. 🩺 [Medical Image Analysis using AI & Deep Learning](https://github.com/Hetviktechu/Medical-Image-Processing-Analytics)
 - **Tech Stack:** Python, Machine Learning, Deep Learning, Computer Vision
 - **Key Highlights:** Built an automated AI pipeline for diagnostic medical image processing and feature extraction to enhance analytics and pattern recognition.
 
